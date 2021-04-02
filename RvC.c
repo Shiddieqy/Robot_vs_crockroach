@@ -182,7 +182,7 @@ float readrange(int xp,int yp,int xc, int yc){
 //Fungsi ketika user memilih menghentikan program
 //Akan dimunculkan jumlah kecoak yang terbunuh
 void stopprogram (int* ccount){
-    printf("\n Program has been stopped\n Cockroach killed : (%d)",ccount);
+    printf("\nProgram has been stopped\n Cockroach killed : %d", *ccount);
 }
 
 //Fungsi bergerak untuk kecoak
