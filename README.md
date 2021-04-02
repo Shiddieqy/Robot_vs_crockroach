@@ -15,5 +15,5 @@ Robot max range : 10<br />
 Robot dmg : 10<br />
 Robot HP : 100<br />
 Crockroach max range : 15<br />
-Crockroack dmg : 5<br />
+Crockroach dmg : 5<br />
 Crockroach HP : 10<br />
