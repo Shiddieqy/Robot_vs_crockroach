@@ -1,4 +1,9 @@
 # Robot_vs_crockroach
+Tugas Besar Programming SEKURO <br/> <br/>
+Anggota Tim : <br/>
+16720364 - Shabri Ash Shiddieqy <br/>
+16520194 - Primanda Adyatma Hafiz <br/>
+16920228 - Ihsan Alfajri <br/>  <br/>
 Prosedur menjalankan program<br />
 Setelah program di-run maka user diminta untuk memasukkan input berupa satu buah integer. Adapun daftar perintah untuk setiap angka adalah sebagai berikut:<br />
 1 : bergerak maju<br />
